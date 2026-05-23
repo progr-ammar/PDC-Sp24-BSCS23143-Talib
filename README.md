@@ -14,7 +14,7 @@ Muhammad Ammar Bin Talib - BSCS23143
 PDC-Sp24-BSCS23143-Talib/
 ├── main.py          # FastAPI application with Circuit Breaker + Middleware
 ├── test.py          # Stress-test script that triggers and proves the CB
-├── FInalReport.pdf       # Part 1 (Analysis) + Part 2 (Design + Diagram)
+├── FinalReport.pdf       # Part 1 (Analysis) + Part 2 (Design + Diagram)
 └── README.md        # This file
 ```
 
